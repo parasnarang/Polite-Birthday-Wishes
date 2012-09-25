@@ -5,9 +5,9 @@ A script for your Android phone that will automatically send a Thank you
 message if an incoming SMS contains specific case insensitive
 keywords such as 'birthday' or 'bday'.
 
-On{X} Script
+on{X} Script
 ------------
-Polite Birthday wishes
+[on{X}](http://www.onx.ms) lets you control and extend the capabilities of your Android phone using a JavaScript API to remotely program it.
 
 Developer
 ---------
@@ -20,9 +20,10 @@ On receiving desired SMS the script sends a Thank you message as a reply.
 
 How to Install
 ---------------
-1. Go to [ON{X} Website](http://www.onx.ms) and Login using Facebook.
+1. Go to [on{X} Website](http://www.onx.ms) and Login using Facebook.
 
-2. [Download](https://play.google.com/store/apps/details?id=com.microsoft.onx.app) ON{X} app to your Android Phone.
+2. [Download](https://play.google.com/store/apps/details?id=com.microsoft.onx.app)
+on{X} app to your Android Phone.
 
 3. Click on [Create a Rule](https://www.onx.ms/#!createScriptPage).
 
