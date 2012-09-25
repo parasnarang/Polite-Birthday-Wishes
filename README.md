@@ -2,15 +2,15 @@ Polite Birthday Wishes
 ======================
 
 A script for your Android phone that will automatically send a Thank you
-message if an incoming message contains specific case-insensitive
-keywords like 'birthday' or 'bday'.
+message if an incoming SMS contains specific case insensitive
+keywords such as 'birthday' or 'bday'.
 
 On{X} Script
 ------------
 Polite Birthday wishes
 
-Developer:
-----------
+Developer
+---------
 Paras Narang
 
 Description
