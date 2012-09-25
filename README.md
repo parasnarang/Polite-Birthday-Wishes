@@ -2,21 +2,23 @@ Polite Birthday Wishes
 ======================
 
 A script for your Android phone that will automatically send a Thank you
-message if your incoming message contains specific case-insensitive
+message if an incoming message contains specific case-insensitive
 keywords like 'birthday' or 'bday'.
 
-On{X} Script: Polite Birthday wishes
--------------
+On{X} Script
+------------
+Polite Birthday wishes
 
-Developer: Paras Narang
+Developer:
 ----------
+Paras Narang
 
-Description:
+Description
 ------------
 This rule monitors the incoming SMS and checks for 'birthday' or 'bday' (case in-sensitive) in the body. 
 On receiving desired SMS the script sends a Thank you message as a reply.
 
-How to Install:
+How to Install
 ---------------
 1. Go to [ON{X} Website](http://www.onx.ms) and Login using Facebook.
 
@@ -24,6 +26,6 @@ How to Install:
 
 3. Click on [Create a Rule](https://www.onx.ms/#!createScriptPage).
 
-4. Paste the code from PoliteBirthdayWishes.js in the Code section.
+4. Paste the code from [PoliteBirthdayWishes.js](https://github.com/parasnarang/Polite-Birthday-Wishes/blob/master/PoliteBirthdayWishes.js) in the Code section.
 
 5. Give a title and then click 'Save and send to phone'.
